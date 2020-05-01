@@ -1,0 +1,21 @@
+[submodule "Movie-service"]
+	path = Movie-service
+	url = https://github.com/Lina-ben/Movie-service.git
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/Lina-ben/Gateway.git
+[submodule "Rating-service"]
+	path = Rating-service
+	url = https://github.com/Lina-ben/Rating-service.git
+[submodule "Catalogue-movie-service"]
+	path = Catalogue-movie-service
+	url = https://github.com/Lina-ben/Catalogue-movie-service.git
+[submodule "Registry"]
+	path = Registry
+	url = https://github.com/Lina-ben/Registry.git
+[submodule "Kubernetes"]
+	path = Kubernetes
+	url = https://github.com/Lina-ben/Kubernetes.git
+[submodule "Front-Angular"]
+	path = Front-Angular
+	url = https://github.com/Lina-ben/Front-Angular.git
